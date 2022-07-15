@@ -1,0 +1,21 @@
+Conceptos básicos.
+
+Variables: Es la forma en la que puedes almacenar inromación en pequeñas cajitas que podrás utilizar más adelante, por ejemplo:
+Colocar mi cochecito favorito en una caja que se llame miCoche, y en otra que se llame miFrita colocar un plátano.
+Así, puedo cambiar el contenido de esas cajas, según sea mi hunor, pero siempre será mi coche favorito y mi fruta favorita.
+
+Strings: Es una cadena de letras y números, que para almacenarse, deben encerrarse o marcarse con una comilla simple o doble comilla.
+'Esta es una cadena de caracreres (número, letras y signos de puntuación)'.
+"Esta también es una cadena de caracteres".
+
+Funciones: Es la forma en la que se registran y almacenan algunos pasos que deseamos se realicen. En escencia siempre son pasos pequeños y básicos, que sólo hacen una cosa a la vez, pero que conjugadas de una forma lógica, pueden crear grandes tareas por realizar.
+Esas funciones tienen un nombre y una estructura. Siempre se definen como function, enseguida se colocan dos paréntesis, en los cuales se pueden agregar los argumentos necesarios para la tarea y finalmente dos corchetes en los que se debe guardar los pass que deseamos se realicen con la ejecución de la función.
+Para ejecutar la función sólo hay que escribir el nombre y sus paréntesis, claro, con sus argumentos nunguno o los que lleve, incluidos.
+
+Declaraciones: Es una forma de comparar datos. Se caracterizan por ser sólo un calor booleano... 1-SI-TRUE ó 0-NO-FALSE.
+Se apoya de comparadores como >, <, =, >=, <=, ==, !==, etc.
+
+Valores booleandos. Son el resultado de comparativas básicas conceptuales, por ejemplo. 
+Mi papá es mayo que yo... esto es VERDADERO.
+El número 5 es menor al número 2... esto es FALSO.
+Esas calificaciones de Verdadero y Falso, es un valor booleano... verdadero se entiende como 1, true o si... mientras que falso se entiende como 0, falso o no.

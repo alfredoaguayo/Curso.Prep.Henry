@@ -1,0 +1,17 @@
+Conceptos.
+
+Objetos. Es la forma en la que se contienen estructuras de datos constantes en la programación, es decir, se define un objeto con los campos que debe llevar, incluso incluyendo campos con información por default.
+La ventaja de este tipo de programación es que mitiga los errores de tipeo a la hora de declarar los campos, garantizando que sólo sean errores de contenido al capturar y no de estructura.
+Visto de otra manera, podría verse como un "modelo", "formulario" o "plantilla" que debemos seguir para no cometer errores en la programación.
+
+Propiedades. De forma pre-definida, una propiedad es un detalle incluido en un objeto de programación, por ejemplo, una propiedad de una matriz es el "length", que nos entrega el conteo de elementos que hay dentro de la matriz.
+Así pues, dentro de un objeto definido por el programador, la información se debe definir con el concepto de "pares", o sea, un sólo elemento debe llevar un nombre del campo y su valor, cualquiera que este sea, de esta forma, el nombre del campo se convierte en la propiedad del objeto y su valor es lo que devolverá al consultarlo.
+
+Métodos. Se le llama métodos a las funciones que se incluyen dentro de un objeto. Esto permite que al invocar el objeto y una propiedad del objeto, se devuelva el resultadod e un proceso. La forma de invocarlo es el nombre del objeto, seguido de un punto, el nombre del método y dos paréntesis (vacíos o no) para indicar que se trata de una función.
+
+Bucle for... in. Es una diferencia del bucle for. En este caso, al no tener índices en los elementso de un objeto, la declaración in hace un recorrido uno por uno para procesar lo que se requiere, y cuando ha acabado de hacer el recorrido, cierra el bucle.
+
+Notación de puntos vs Notación de corchetes. Se puede llamar una propiedad de dos formas.
+objeto.propiedad
+objeto[propiedad]
+La diferencia es que con el punto, se invoca al nombre de la propiedad como un elemento (sin comillas), mientras que con los corchetes se debe llamar con un string o número, y en caso de ser una variable, con el nombre de la variable sin comillas.

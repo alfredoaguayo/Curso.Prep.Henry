@@ -98,7 +98,7 @@ function breakStatement(numero) {
   }
   return newArray;
 }
- */
+
 
 function continueStatement(numero) {
   //Iterar en un bucle aumentando en 2 el numero recibido hasta un límite de 10 veces.
@@ -122,4 +122,29 @@ function continueStatement(numero) {
   return newArray;
 }
 
-console.log(continueStatement(50))
+*/
+const parole = 'Comosellamaesoquehiciste';
+
+// function reverse () {
+  let letter = '';
+  let final = '';
+  for (let i = parole.length - 1; i >= 0; i--) {
+    letter = parole.charAt(i);
+    final = final + letter;
+  }
+  
+  console.log(final);
+//}
+/*
+return final;
+}
+
+/*
+console.log(agregarStringInvertida())
+
+
+*/
+
+
+
+// reverse(parole);
